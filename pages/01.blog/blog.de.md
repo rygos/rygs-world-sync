@@ -1,8 +1,10 @@
 ---
 title: Blog
+media_order: IMG_1447.jpeg
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
+hero_image: IMG_1447.jpeg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
