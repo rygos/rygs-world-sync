@@ -9,8 +9,4 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-Your page summary goes here.
-
-===
-
-Your page content goes here.
+sds
