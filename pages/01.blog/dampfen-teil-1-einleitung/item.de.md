@@ -9,4 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-sds
+Heutzutage sieht man es immer öfter: Dampfer, E-Raucher, Vaper... Oder wie man sie mitlerweile auch immer nennt. Seit kurzer Zeit bin ich auch einer von denen. Rauchfrei allerdings.
+
+# Was wird das hier?
+Ich habe vor eine mehrteilige Reihe von Beiträgen zu schreiben, in denen ich mich mit dem Dampfen beschäftige. Ich selbst dampfe erst seit ein paar Wochen und obwohl die Community überraschend nett und hilfsbereit zu sein scheint, wirft sie dennoch mit einer sehr hohen "Abkürzungen/Fachbegriffe pro Beitrag" Zahl um sich.
